@@ -1,0 +1,6 @@
+autoload/
+plugged/
+undodir/
+bundle/
+colors/
+.netrwhist
